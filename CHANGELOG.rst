@@ -2,6 +2,11 @@
 Changelog for package libntcan
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
+0.5.2 (2014-03-20)
+------------------
+* Add missing find_package calls
+* Contributors: Scott K Logan
+
 0.5.1 (2014-03-19)
 ------------------
 * add changelogs
