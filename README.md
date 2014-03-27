@@ -1,3 +1,26 @@
+## cob_extern (hydro) - 0.5.2-5
+
+User `fmw@fmw-xps` released the packages in the `cob_extern` repository into the `hydro` distro by running `/usr/bin/bloom-release --ros-distro hydro --track hydro cob_extern` on `Thu, 27 Mar 2014 08:59:56 -0000`
+
+These packages were released:
+- `cob_extern`
+- `libntcan`
+- `libpcan`
+- `libphidgets`
+
+Version of package(s) in repository `cob_extern`:
+- rosdistro version: `0.5.2-4`
+- old version: `0.5.2-4`
+- new version: `0.5.2-5`
+
+Versions of tools used:
+- bloom version: `0.5.2`
+- catkin_pkg version: `0.1.26`
+- rosdep version: `0.10.25`
+- rosdistro version: `0.3.4`
+- vcstools version: `0.1.33`
+
+
 ## cob_extern (hydro) - 0.5.2-4
 
 User `fmw@fmw-xps` released the packages in the `cob_extern` repository into the `hydro` distro by running `/usr/bin/bloom-release --rosdistro hydro --track hydro cob_extern` on `Tue, 25 Mar 2014 07:08:07 -0000`
